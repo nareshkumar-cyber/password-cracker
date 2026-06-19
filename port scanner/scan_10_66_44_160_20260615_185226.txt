@@ -1,0 +1,19 @@
+Port Scan Results for 10.66.44.160
+Scan completed at: 2026-06-15 18:52:26.148777
+------------------------------------------------------------
+Port     Service              Banner                                  
+------------------------------------------------------------
+25       SMTP                 No banner captured                      
+110      POP3                 No banner captured                      
+119      Unknown              No banner captured                      
+135      RPC                  No banner captured                      
+139      NetBIOS              No banner captured                      
+143      IMAP                 No banner captured                      
+445      SMB                  No banner captured                      
+465      Unknown              No banner captured                      
+563      Unknown              No banner captured                      
+587      Unknown              No banner captured                      
+993      IMAPS                No banner captured                      
+995      POP3S                No banner captured                      
+------------------------------------------------------------
+Total open ports: 12
